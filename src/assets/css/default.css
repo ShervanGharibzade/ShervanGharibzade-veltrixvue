@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input:checked ~ .dot {
+    transform: translateX(100%);
+    background-color: darkblue;
+}
+body{
+    background-color: #f4f4f5;
+}
+html{
+    background-color: #f4f4f5;
+}
