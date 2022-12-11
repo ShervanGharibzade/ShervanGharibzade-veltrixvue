@@ -1,5 +1,7 @@
 # veltrixvue
 
+This is a admin dashboard built with vuex ,tailwindcss ,apexcharts .
+
 ## Project setup
 ```
 npm install
